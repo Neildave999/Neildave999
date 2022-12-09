@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Hello!
-I am Neil Dave
+Namaste!<br>
+I am Neil Dave<br>
+
+<a href="https://www.linkedin.com/in/neil-dave/" rel="nofollow">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/neil-dave/"></a><br>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neildave999&repo=github-readme-stats)](https://github.com/Neildave999/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neildave999)](https://github.com/Neildave999/github-readme-stats) -->
 
@@ -33,7 +36,6 @@ Here are some ideas to get you started:
 -->
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=Neildave999">]
+
 ###(https://github.com/anuraghazra/github-readme-stats)
  -->
-  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Neildave999.visitor-badge">
